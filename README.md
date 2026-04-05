@@ -24,7 +24,7 @@ The main goal of this project is to detect and monitor car parking spaces. It co
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/harshbafnaa/car-parking-detection.git
+   git clone https://github.com/VimalChaudhary07/car-parking-detection.git
    ```
 
 2. Install the required dependencies, including OpenCV and cvzone:
