@@ -68,4 +68,3 @@ This project is licensed under the MIT License.
 
 - Original inspiration and educational content provided by [Murtaza's Computer Vision Zone](https://www.computervision.zone/).
 - Course link: [Computer Vision Zone YouTube Course](https://www.youtube.com/watch?v=caKnQlCMIYI).
-- This project was created by [Harsh Bafna](https://github.com/harshbafnaa)
