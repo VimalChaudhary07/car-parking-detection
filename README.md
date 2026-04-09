@@ -63,8 +63,3 @@ Contributions to this project are welcome! If you have any ideas, improvements, 
 ## License
 
 This project is licensed under the MIT License.
-
-## Credits
-
-- Original inspiration and educational content provided by [Murtaza's Computer Vision Zone](https://www.computervision.zone/).
-- Course link: [Computer Vision Zone YouTube Course](https://www.youtube.com/watch?v=caKnQlCMIYI).
